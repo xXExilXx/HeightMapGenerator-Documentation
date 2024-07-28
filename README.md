@@ -1,1 +1,0 @@
-# HeightMapGenerator-Documentation
